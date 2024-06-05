@@ -13,12 +13,12 @@ if __name__ == "__main__":
 
     #   output_path: Path to save the final csv file
     # ----------------------------------------------------#
-    base_path = 'dataset/Chinese_no_kuang_data'
+    base_path = 'xxxxx'
     num_folder = 15
     num_cross_samples = 2500
     file_type = '.jpg'
 
-    output_path = 'dataset/More_data.csv'
+    output_path = 'xxxxx'
 
     # ----------------------------------------------------#
     #   Generate data points -> df

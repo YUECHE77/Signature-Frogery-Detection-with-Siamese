@@ -1,6 +1,7 @@
 # Signature-Frogery-Detection-with-Siamese
 
 ## *Very important:*
+### *Create logs and dataset directory first*
 ### In your *dataset* directory, the structure MUST be: 
 #### --dataset
 #### ------Your dataset

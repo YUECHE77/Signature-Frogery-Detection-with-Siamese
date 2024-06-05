@@ -3,13 +3,13 @@
 ## *Very important:*
 ### In your *dataset* directory, the structure MUST be: 
 #### --dataset
-####     --Your dataset
-####       --001
-####       --001_forg
-####       --002
-####       --002_forg
-####       --...
-####       --... ...
+#### ------Your dataset
+#### ----------001
+#### ----------001_forg
+#### ----------002
+#### ----------002_forg
+#### ----------...
+#### ----------... ...
 ### *Even the names of those folds are very important!!!*
 
 ## *How to train the model:*

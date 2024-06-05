@@ -12,9 +12,9 @@ if __name__ == "__main__":
     #   img_path: The path to the images you want to test
     #   threshold: Threshold to determine forgery or real
     # ----------------------------------------------------#
-    state_dict_path = 'logs/model_loss_0.1228.pth'
-    img_path_1 = 'images/高荣-60-4.jpg'
-    img_path_2 = 'images/蔡洲_forg_2.jpg'
+    state_dict_path = 'xxxxx'
+    img_path_1 = 'xxxxx'
+    img_path_2 = 'xxxxx'
     threshold = 0.1
 
     # ----------------------------------------------------#
